@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jel:home|Door43 (jel)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jel|d43-jel repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jel/archive/master.zip|d43-jel.zip]]
+
+**Recent Changes**
+{{changes>ns = jel}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jel|Ethnologue data]]
+
